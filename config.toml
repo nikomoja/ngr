@@ -1,0 +1,4 @@
+baseurl = "https://www.nicolognecchi.com"
+DefaultContentLanguage = "en"
+title = "ngr"
+theme = "beautifulhugo"
